@@ -1,0 +1,36 @@
+{
+  "name": "groceryListapp",
+  "version": "1.0.0",
+  "description": "Grocery List App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app"
+  },
+  "keywords": [],
+  "author": "Walter Perry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterjamesperry/grocery-list.git"
+  },
+  "author": "Walter Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterjamesperry/grocery-list/issues"
+  },
+  "homepage": "https://github.com/walterjamesperry/grocery-list#readme"
+}
+
+
+
+
